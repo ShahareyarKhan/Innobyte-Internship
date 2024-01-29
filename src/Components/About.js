@@ -1,5 +1,5 @@
 import React from 'react'
-import { FaLocationArrow, FaLocationDot, FaServer, FaUser } from 'react-icons/fa6'
+import {  FaLocationDot, FaServer, FaUser } from 'react-icons/fa6'
 
 const About = () => {
   return (

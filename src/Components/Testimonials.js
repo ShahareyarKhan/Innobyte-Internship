@@ -81,8 +81,8 @@ function Testimonials() {
                 </div>
 
             </div>
-            <div className="d-flex justify-content-between">
-                <div className="d-flex gap-3 align-items-center mx-5">
+            <div className="d-flex justify-content-between arrow-box">
+                <div className="d-flex gap-3 align-items-center mx-5 ">
                     <div className={`${scrollPosition === 0 ? 'active' : ""} dot`}></div>
                     <div className={`${scrollPosition === 1 ? 'active' : ""} dot`}></div>
                     <div className={`${scrollPosition === 2 ? 'active' : ""} dot`}></div>
